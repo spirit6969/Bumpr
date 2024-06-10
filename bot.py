@@ -3,10 +3,10 @@ import discum
 import time
 import random
 
-ownerID = "" #OWNER ID
-reminder_botID = "" #REMINDER BOT ID
-selfbot_ID = "" #SELFBOT ID
-TOKEN = "" #TOKEN
+ownerID = "747443425481195580" #OWNER ID
+reminder_botID = "735147814878969968" #REMINDER BOT ID
+selfbot_ID = "1061589498330365982" #SELFBOT ID
+TOKEN = "MTA2MTU4OTQ5ODMzMDM2NTk4Mg.Gsi0ar.4pMclipjsdOFn3cCGaGCDtqW4mbiE_H6Urc7XM" #TOKEN
 
 
 bot = discum.Client(token=TOKEN,log=False)
