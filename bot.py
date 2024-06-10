@@ -3,9 +3,9 @@ import discum
 import time
 import random
 
-ownerID = "747443425481195580" #OWNER ID
-reminder_botID = "735147814878969968" #REMINDER BOT ID
-selfbot_ID = "1061589498330365982" #SELFBOT ID
+ownerID = "1180" #OWNER ID
+reminder_botID = "73514" #REMINDER BOT ID
+selfbot_ID = "2" #SELFBOT ID
 TOKEN = "" #TOKEN
 
 
